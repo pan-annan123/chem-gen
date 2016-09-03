@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Computer Science/Libraries/jsoup-1.9.2.jar" sourcepath="C:/Users/Admin/Desktop/Computer Science/Libraries/jsoup-1.9.2-sources.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/#Website Class Library 3.3"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/#CacheLoader"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
